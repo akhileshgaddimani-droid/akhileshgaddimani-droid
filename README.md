@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Akhilesh Gaddimani</h1>
+<h3 align="center">A passionate Data Science & Data Analytics</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshgaddimani-droid&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshgaddimani-droid" /> </p>
+
+- 🌱 I’m currently learning **Data Science**
+
+- 📫 How to reach me **akhileshgaddimani@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_akhilesh_.01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akhilesh Gaddimani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhileshgaddimani@gmail.com) 
 
