@@ -11,7 +11,7 @@ My strongest skill right now is power BI, and I'm actively preparing for data an
 
 ## Curent Focus
 - Building **Power BI dashboards** with meaningful KPIs
-- strengthtning **Excel, SQL, and analysis fundamentals** for placements
+- strengthening **Excel, SQL, and analysis fundamentals** for placements
 - Working with real datasets, not just tutorial data
 - Exploring product ideas + data-driven validation
 - 📫 How to reach me **akhileshgaddimani@gmail.com**
